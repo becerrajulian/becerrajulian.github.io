@@ -10,6 +10,6 @@ Camera Effects
 
 This is my camera effects project
 
-![picture_title](picture filename?raw=true "Optional Title")
+![julian](https://github.com/becerrajulian/becerrajulian.github.io/blob/master/Capture.PNG?raw=true "Optional Title")
 
 ***
